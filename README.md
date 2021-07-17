@@ -69,9 +69,9 @@
     <img src = "https://user-images.githubusercontent.com/79628668/126039026-67d7546b-6bef-4def-8d1e-8528ea3844f8.gif", width="700px">
 </p>
 
-**8888. 랭킹**
+**2. 맛집 지도**
 <p align="center">
-    <img src = "https://user-images.githubusercontent.com/82925724/125972371-b938481a-50f6-4803-8120-5a5e97600d82.gif" width="700" height="400">
+    <img src = "https://user-images.githubusercontent.com/79628668/126039183-94177566-1d0f-4034-bfee-cb62f1a106f2.gif" width="700" height="400">
 </p>
 
 **13. 공지사항**<br>
