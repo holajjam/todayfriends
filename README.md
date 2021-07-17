@@ -77,7 +77,7 @@
 
 **3. 채팅**
 <p align="center">
-    <img src = "https://user-images.githubusercontent.com/79628668/126039256-b953b906-0bc5-4a06-abb0-aa3322fdfd96.gif" width="700" height="400">
+    <img src = "https://user-images.githubusercontent.com/79628668/126039258-26da0920-bcea-4da0-8dad-01e447df1972.gif" width="700" height="400">
 </p>
 **4. 공지사항**
 <p align="center">
