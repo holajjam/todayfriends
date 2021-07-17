@@ -66,7 +66,7 @@
 ---
 ## 주요기능
 **1. 친구 만나러 가기**
-<p text-align="center">
+<p align="center">
     <img src = "https://user-images.githubusercontent.com/79628668/126039026-67d7546b-6bef-4def-8d1e-8528ea3844f8.gif", width="700px">
 </p>
 
