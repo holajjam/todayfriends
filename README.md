@@ -79,7 +79,7 @@
 <p align="center">
     <img src = "https://user-images.githubusercontent.com/79628668/126039256-b953b906-0bc5-4a06-abb0-aa3322fdfd96.gif" width="700" height="400">
 </p>
-**3. 공지사**
+**4. 공지사항**
 <p align="center">
     <img src = "https://user-images.githubusercontent.com/79628668/126039256-b953b906-0bc5-4a06-abb0-aa3322fdfd96.gif" width="700" height="400">
 </p>
