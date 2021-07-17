@@ -75,9 +75,14 @@
     <img src = "https://user-images.githubusercontent.com/79628668/126039183-94177566-1d0f-4034-bfee-cb62f1a106f2.gif" width="700" height="400">
 </p>
 
-**13. 공지사항**<br>
-<left><img src="https://user-images.githubusercontent.com/82936574/126027457-7fc8c969-3720-43f7-a3b7-ede15c2f1134.gif"  width="700" height="400" /></left>
-<br><br>
+**3. 채팅**
+<p align="center">
+    <img src = "https://user-images.githubusercontent.com/79628668/126039256-b953b906-0bc5-4a06-abb0-aa3322fdfd96.gif" width="700" height="400">
+</p>
+**4. 공지사항**
+<p align="center">
+    <img src = "https://user-images.githubusercontent.com/79628668/126039256-b953b906-0bc5-4a06-abb0-aa3322fdfd96.gif" width="700" height="400">
+</p>
 ---
 ## Document
 ### 1. 개발일정
