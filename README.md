@@ -83,6 +83,19 @@
 <p align="center">
     <img src = "https://user-images.githubusercontent.com/79628668/126039256-b953b906-0bc5-4a06-abb0-aa3322fdfd96.gif" width="700" height="400">
 </p>
+**5. 메인페이지**
+<p align="center">
+    <img src = "https://user-images.githubusercontent.com/79628668/126039404-9d84ee40-2030-4f82-8a09-bf0ae260368c.gif" width="700" height="400">
+</p>
+**6. 회원가입**
+<p align="center">
+    <img src = "https://user-images.githubusercontent.com/79628668/126039408-eba50d11-2cf1-4fd1-b165-1eaa44e1bf5b.gif" width="700" height="400">
+</p>
+**7. 아이디/ 비밀 번호 찾기**
+<p align="center">
+    <img src = "https://user-images.githubusercontent.com/79628668/126039412-542257c7-32fd-48d4-be1c-3671238c29f5.gif" width="700" height="400">
+</p>
+
 ---
 ## Document
 ### 1. 개발일정
