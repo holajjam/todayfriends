@@ -71,6 +71,9 @@
     <img src = "https://user-images.githubusercontent.com/79628668/126039404-9d84ee40-2030-4f82-8a09-bf0ae260368c.gif" width="700" height="400">
 </p>
 
+- ABOUT US 
+- 후기글 조회
+
 
 **2. 회원가입**
 <p align="center">
@@ -85,11 +88,16 @@
 <p align="center">
     <img src = "https://user-images.githubusercontent.com/79628668/126039412-542257c7-32fd-48d4-be1c-3671238c29f5.gif" width="700" height="400">
 </p>
+- 이름과 이메일 입력 후 NAME/EMAIL컬럼에서 정보조회 → 아이디/비밀번호 얼럿창으로 안내
+- 정보 불일치시 회원 정보 입력을 다시 확인해주세요 라는 얼럿창 안내
 
 **4. 친구 만나러 가기**
 <p align="center">
     <img src = "https://user-images.githubusercontent.com/79628668/126039026-67d7546b-6bef-4def-8d1e-8528ea3844f8.gif", width="700px">
 </p>
+
+- 제목과 내용입력(수정) 후 글등록(글수정) 및 삭제
+- 제목과 내용의 입력한 키워드를 검색 후 검색결과 안내 및 조회
 
 **5. 맛집 지도**
 <p align="center">
