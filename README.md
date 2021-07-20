@@ -43,7 +43,7 @@
 |Server|Tomcat(v8.5)|
 |Document|Google Drive, KakaoOven, ERDCloud|
 |CI|Github|
-|DateBase|SQL Developer, Oracle(XE)|
+|DataBase|SQL Developer, Oracle(XE)|
 |API|Google Charts, KaKao Channel, kakao Maps<br>tawk.to, 서울 열린데이터 광장|
 <br>
 
